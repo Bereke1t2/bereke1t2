@@ -15,7 +15,6 @@
 - 🌱 Currently exploring MLOps, scalable backend systems, and deep learning  
 - 🔭 Working on ML projects and sharpening problem-solving skills on competitive programming platforms  
 - 📫 Reach me at **bereketaschalew1212@gmail.com**  
-- 📄 View my Resume *(add link here if you have one)*  
 
 ---
 
