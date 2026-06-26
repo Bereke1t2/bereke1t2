@@ -21,7 +21,7 @@ I build production systems in Go — Gin and Echo for APIs, clean architecture e
 #### [cpd-hub](https://github.com/Bereke1t2/cpd-hub)
 Competitive programming community platform built with Go (Gin) and Flutter. Tracks daily problem-solving consistency, contest performance, and member attendance. Includes event reminders for upcoming contests and meetings, personal leaderboards, progress trends, and community engagement analytics. Backed by Supabase and PostgreSQL.
 
-#### [Memere][https://github.com/Bereke1t2/Memere]
+#### [Memere](https://github.com/Bereke1t2/Memere)
 Full-stack academic platform for Ethiopian students, built with Go (Gin) and Flutter. Students stream or download HD video lessons (HLS adaptive bitrate), access course notes, take quizzes with instant feedback, and sit timed mock exams. Includes progress dashboards, class leaderboards, completion certificates, and offline mode. Payments handled via Chapa, Telebirr, and Stripe. Teachers and admins get a full content management suite — video upload with automatic HLS transcoding, quiz and exam builders, student analytics, and a payment dashboard with coupon management.
 
 #### [addis-stream](https://github.com/Bereke1t2/addis-stream)
