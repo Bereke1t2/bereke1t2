@@ -1,5 +1,5 @@
 # Bereket Aschalew
-
+g
 Backend and mobile developer based in Ethiopia. 
 
 I build production systems in Go — Gin and Echo for APIs, clean architecture end to end. On mobile I ship Flutter/Dart with whatever state management the project calls for: Bloc, Riverpod, Provider. I've also worked extensively in Python (Django) and Node.js (Express). Competitive programming is a serious part of how I work — I trained at [A2SV](https://a2sv.org/), a Google-backed program, and earned Top Problem Solver and Top Contest Performer.
