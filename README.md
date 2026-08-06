@@ -10,33 +10,19 @@ Competitive programming is a core part of how I approach software engineering. I
 
 ## Tech Stack
 
-### Backend
-- Go (Gin, Echo)
-- Python (Django)
-- Node.js (Express)
+**Languages:** Go · Python · Dart · JavaScript
 
-### Mobile
-- Flutter/Dart
-- Bloc
-- Riverpod
-- Provider
+**Frameworks:** Gin · Echo · Django · Express · Flutter
 
-### Architecture
-- Clean Architecture
-- REST APIs
+**State Management:** Bloc · Riverpod · Provider
 
-### Data & Machine Learning
-- TensorFlow
-- scikit-learn
-- Pandas
-- MLflow
+**Architecture:** Clean Architecture · REST APIs
 
-### Databases & Infrastructure
-- PostgreSQL
-- Supabase
-- MongoDB
-- Firebase
-- Docker
+**Databases:** PostgreSQL · Supabase · MongoDB · Firebase
+
+**Data & ML:** TensorFlow · scikit-learn · Pandas · MLflow
+
+**Tools:** Docker · Git · GitHub
 
 ---
 
@@ -55,53 +41,60 @@ Competitive programming community platform built with Go (Gin) and Flutter.
 - Progress visualization
 - Community engagement analytics
 
-**Stack:** Go • Gin • Flutter • PostgreSQL • Supabase
+**Stack:** Go · Gin · Flutter · PostgreSQL · Supabase
 
 ---
 
 ### [Memere](https://github.com/Bereke1t2/Memere)
 
-Full-stack learning platform for Ethiopian students built with Go (Gin) and Flutter.
+Full-stack academic platform for Ethiopian students built with Go (Gin) and Flutter.
 
 **Features**
-- Adaptive HLS video streaming
-- Offline learning
+- HD video streaming with adaptive HLS
+- Offline learning support
+- Course notes
 - Interactive quizzes
 - Timed mock exams
 - Progress dashboards
 - Class leaderboards
 - Completion certificates
-- Chapa, Telebirr, and Stripe payments
+- Payments via Chapa, Telebirr, and Stripe
 - Teacher/Admin content management system
-- Student analytics
+- Student analytics and payment dashboard
+- Coupon management
 
-**Stack:** Go • Gin • Flutter • PostgreSQL • Docker
+**Stack:** Go · Gin · Flutter · PostgreSQL · Docker
 
 ---
 
 ### [addis-stream](https://github.com/Bereke1t2/addis-stream)
 
-Telemetry ingestion engine built in Go with Docker using Clean Architecture.
+High-throughput telemetry ingestion engine built in Go using Docker and Clean Architecture.
 
-Designed for efficient, high-throughput data ingestion with a modular and maintainable architecture.
+Designed for efficient, scalable data ingestion with a modular architecture and a lean runtime footprint.
 
-**Stack:** Go • Docker • PostgreSQL
+**Stack:** Go · Docker · PostgreSQL
 
 ---
 
 ### [btluBook-Store](https://github.com/Bereke1t2/btluBook-Store)
 
-Digital library platform built with Go (Gin) and Flutter.
+Cross-platform digital library platform built with Go (Gin) and Flutter.
 
-Features scalable book distribution with AI-assisted content analysis while maintaining a clean separation between frontend and backend.
+Designed for scalable book distribution with AI-assisted content analysis while maintaining a clean separation between frontend and backend.
 
-**Stack:** Go • Gin • Flutter
+**Stack:** Go · Gin · Flutter
 
 ---
 
 ## Competitive Programming
 
-- **A2SV (Google-backed)** — Top Problem Solver, Top Contest Performer
+Active on **Codeforces** and **LeetCode**.
+
+- **A2SV (Google-backed Program)**
+  - Top Problem Solver
+  - Top Contest Performer
+
 - **Codeforces:** https://codeforces.com/profile/Bereket12
 - **LeetCode:** https://leetcode.com/u/Bereket_aschalew
 
@@ -109,7 +102,7 @@ Features scalable book distribution with AI-assisted content analysis while main
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/bereket-aschalew/
-- Email: bereketaschalew1212@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/bereket-aschalew/
+- **Email:** bereketaschalew1212@gmail.com
 
 Open to freelance work, backend engineering opportunities, and interesting collaborations.
