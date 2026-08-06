@@ -1,29 +1,115 @@
 # Bereket Aschalew
-Backend and mobile developer based in Ethiopia. 
-g
-I build production systems in Go — Gin and Echo for APIs, clean architecture end to end. On mobile I ship Flutter/Dart with whatever state management the project calls for: Bloc, Riverpod, Provider. I've also worked extensively in Python (Django) and Node.js (Express). Competitive programming is a serious part of how I work — I trained at [A2SV](https://a2sv.org/), a Google-backed program, and earned Top Problem Solver and Top Contest Performer.
+
+Backend and Mobile Developer based in Ethiopia.
+
+I build production systems in Go using Gin and Echo, following Clean Architecture from API design to deployment. On mobile, I develop cross-platform applications with Flutter/Dart using Bloc, Riverpod, or Provider depending on the project's requirements. I also have extensive experience with Python (Django) and Node.js (Express).
+
+Competitive programming is a core part of how I approach software engineering. I trained at [A2SV](https://a2sv.org/), a Google-backed program, where I earned **Top Problem Solver** and **Top Contest Performer**.
+
 ---
-## What I work with
-**Backend** — Go (Gin, Echo), Python (Django), Node.js (Express)  
-**Mobile** — Flutter/Dart · Bloc, Riverpod, Provider  
-**Architecture** — Clean Architecture (both backend and mobile)  
-**Data / ML** — TensorFlow, scikit-learn, Pandas, MLflow  
-**Infra** — PostgreSQL, Supabase, MongoDB, Firebase, Docker
+
+## Tech Stack
+
+### Backend
+- Go (Gin, Echo)
+- Python (Django)
+- Node.js (Express)
+
+### Mobile
+- Flutter/Dart
+- Bloc
+- Riverpod
+- Provider
+
+### Architecture
+- Clean Architecture
+- REST APIs
+
+### Data & Machine Learning
+- TensorFlow
+- scikit-learn
+- Pandas
+- MLflow
+
+### Databases & Infrastructure
+- PostgreSQL
+- Supabase
+- MongoDB
+- Firebase
+- Docker
+
 ---
-## Projects
-#### [cpd-hub](https://github.com/Bereke1t2/cpd-hub)
-Competitive programming community platform built with Go (Gin) and Flutter. Tracks daily problem-solving consistency, contest performance, and member attendance. Includes event reminders for upcoming contests and meetings, personal leaderboards, progress trends, and community engagement analytics. Backed by Supabase and PostgreSQL.
-#### [Memere](https://github.com/Bereke1t2/Memere)
-Full-stack academic platform for Ethiopian students, built with Go (Gin) and Flutter. Students stream or download HD video lessons (HLS adaptive bitrate), access course notes, take quizzes with instant feedback, and sit timed mock exams. Includes progress dashboards, class leaderboards, completion certificates, and offline mode. Payments handled via Chapa, Telebirr, and Stripe. Teachers and admins get a full content management suite — video upload with automatic HLS transcoding, quiz and exam builders, student analytics, and a payment dashboard with coupon management.
-#### [addis-stream](https://github.com/Bereke1t2/addis-stream)
-High-throughput telemetry ingestion engine built in Go with Docker. Clean Architecture. Designed to handle serious data volumes with a lean footprint.
-#### [btluBook-Store](https://github.com/Bereke1t2/btluBook-Store)
-Cross-platform digital library platform for scalable book distribution and AI-driven content analysis. Go (Gin) backend, Flutter frontend. Built for performance and clean separation of concerns.
+
+## Featured Projects
+
+### [cpd-hub](https://github.com/Bereke1t2/cpd-hub)
+
+Competitive programming community platform built with Go (Gin) and Flutter.
+
+**Features**
+- Daily problem-solving streak tracking
+- Contest performance analytics
+- Attendance management
+- Event reminders
+- Personal leaderboards
+- Progress visualization
+- Community engagement analytics
+
+**Stack:** Go • Gin • Flutter • PostgreSQL • Supabase
+
 ---
-## Competitive programming
-Active on [Codeforces](https://codeforces.com/profile/Bereket12) and [LeetCode](https://leetcode.com/u/Bereket_aschalew).  
-Top Problem Solver · Top Contest Performer — A2SV (Google-backed program).
+
+### [Memere](https://github.com/Bereke1t2/Memere)
+
+Full-stack learning platform for Ethiopian students built with Go (Gin) and Flutter.
+
+**Features**
+- Adaptive HLS video streaming
+- Offline learning
+- Interactive quizzes
+- Timed mock exams
+- Progress dashboards
+- Class leaderboards
+- Completion certificates
+- Chapa, Telebirr, and Stripe payments
+- Teacher/Admin content management system
+- Student analytics
+
+**Stack:** Go • Gin • Flutter • PostgreSQL • Docker
+
 ---
+
+### [addis-stream](https://github.com/Bereke1t2/addis-stream)
+
+Telemetry ingestion engine built in Go with Docker using Clean Architecture.
+
+Designed for efficient, high-throughput data ingestion with a modular and maintainable architecture.
+
+**Stack:** Go • Docker • PostgreSQL
+
+---
+
+### [btluBook-Store](https://github.com/Bereke1t2/btluBook-Store)
+
+Digital library platform built with Go (Gin) and Flutter.
+
+Features scalable book distribution with AI-assisted content analysis while maintaining a clean separation between frontend and backend.
+
+**Stack:** Go • Gin • Flutter
+
+---
+
+## Competitive Programming
+
+- **A2SV (Google-backed)** — Top Problem Solver, Top Contest Performer
+- **Codeforces:** https://codeforces.com/profile/Bereket12
+- **LeetCode:** https://leetcode.com/u/Bereket_aschalew
+
+---
+
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/bereket-aschalew/) · [bereketaschalew1212@gmail.com](mailto:bereketaschalew1212@gmail.com)  
-Open to freelance work and interesting collaborations.
+
+- LinkedIn: https://www.linkedin.com/in/bereket-aschalew/
+- Email: bereketaschalew1212@gmail.com
+
+Open to freelance work, backend engineering opportunities, and interesting collaborations.
