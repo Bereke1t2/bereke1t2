@@ -13,7 +13,6 @@ I build production systems in Go — Gin and Echo for APIs, clean architecture e
 **Architecture** — Clean Architecture (both backend and mobile)  
 **Data / ML** — TensorFlow, scikit-learn, Pandas, MLflow  
 **Infra** — PostgreSQL, Supabase, MongoDB, Firebase, Docker
-ho
 ---
 
 ## Projects
