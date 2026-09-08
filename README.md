@@ -1,6 +1,6 @@
 # Bereket Aschalew
 
-Backend and Mobile Developer based in Ethiopika.
+Backend and Mobile Developer based in Ethiopia.
 
 I build production systems in Go using Gin and Echo, following Clean Architecture from API design to deployment. On mobile, I develop cross-platform applications with Flutter/Dart using Bloc, Riverpod, or Provider depending on the project's requirements. I also have extensive experience with Python (Django) and Node.js (Express).
 
