@@ -10,19 +10,19 @@ Competitive programming is a core part of how I approach software engineering. I
 
 ## Tech Stack
 
-**Languages:** Go · Python · Dart · JavaScript
+**Languages:** Go · Python · Dart · JavaScript · TypeScript
 
-**Frameworks:** Gin · Echo · Django · Express · Flutter
+**Frameworks:** Gin · Echo · Django · Express · Flutter · React
 
 **State Management:** Bloc · Riverpod · Provider
 
-**Architecture:** Clean Architecture · REST APIs
+**Architecture:** Clean Architecture · REST APIs · Abstract Syntax Trees (AST)
 
-**Databases:** PostgreSQL · Supabase · MongoDB · Firebase
+**Databases:** PostgreSQL · Supabase · MongoDB · Firebase · pgvector
 
-**Data & ML:** TensorFlow · scikit-learn · Pandas · MLflow
+**Data & ML:** TensorFlow · scikit-learn · Pandas · MLflow · RAG
 
-**Tools:** Docker · Git · GitHub
+**Tools:** Docker · Git · GitHub · Redis · GitHub Actions
 
 ---
 
@@ -33,17 +33,10 @@ Competitive programming is a core part of how I approach software engineering. I
 AI-powered scientific research discovery and intelligence platform built with Go and Flutter, combining federated academic search, hybrid vector retrieval, and grounded AI assistance.
 
 **Features**
-- Federated live paper search across arXiv, OpenAlex, Semantic Scholar, and Crossref
-- Intelligent deduplication using DOI, arXiv ID, and title fingerprinting
-- Personalized research feed with trending velocity indicators and research field taxonomy
-- Grounded AI paper chat with real-time Server-Sent Events (SSE) streaming and verified citation excerpts
-- Multi-level AI summaries, from beginner to expert, with content-hash-based caching
-- In-app academic article reader and PDF viewer with reading progress tracking
-- Multi-paper comparison matrix with consensus and divergence analysis
-- Multi-format citation generator supporting BibTeX, APA, MLA, Chicago, RIS, and Markdown
-- Interactive citation network explorer and related research graph
-- Cloud-synced research library with offline fallback and reading history
-- Asynchronous River queue workers with circuit breakers and notification fanout
+- Federated academic paper search across arXiv, OpenAlex, Semantic Scholar, and Crossref
+- Grounded AI paper chat with real-time SSE streaming and verified citation excerpts
+- Multi-level AI summaries, multi-paper comparison, and citation network exploration
+- Research library with PDF reading, citation generation, offline fallback, and reading history
 
 **Stack:** Go · Flutter · Riverpod · PostgreSQL (pgvector) · Redis · Google Gemini · Docker · Render
 
@@ -54,16 +47,10 @@ AI-powered scientific research discovery and intelligence platform built with Go
 Full-stack academic platform for Ethiopian students built with Go (Gin) and Flutter.
 
 **Features**
-- HD video streaming with adaptive HLS
-- Offline learning support
-- Course notes and interactive quizzes
-- Timed mock exams
-- Progress dashboards and class leaderboards
-- Completion certificates
-- Payments via Chapa, Telebirr, and Stripe
-- Teacher/admin content management system
-- Student analytics and payment dashboard
-- Coupon management
+- Adaptive HLS video streaming and offline learning support
+- Interactive quizzes, timed mock exams, and course notes
+- Progress dashboards, leaderboards, and completion certificates
+- Integrated payments via Chapa, Telebirr, and Stripe, with teacher/admin management tools
 
 **Stack:** Go · Gin · Flutter · PostgreSQL · Docker
 
@@ -74,35 +61,54 @@ Full-stack academic platform for Ethiopian students built with Go (Gin) and Flut
 Competitive programming community platform built with Go (Gin) and Flutter.
 
 **Features**
-- Daily problem-solving streak tracking
-- Contest performance analytics
-- Attendance management
-- Event reminders
-- Personal leaderboards
-- Progress visualization
-- Community engagement analytics
+- Daily problem-solving streak tracking and progress visualization
+- Contest performance analytics and personal leaderboards
+- Attendance management and community engagement analytics
+- Event reminders to keep members active and connected
 
 **Stack:** Go · Gin · Flutter · PostgreSQL · Supabase
 
 ---
 
-### [Addis Stream](https://github.com/Bereke1t2/addis-stream)
+### [GezeLang](https://github.com/Bereke1t2/GezeLang)
 
-High-throughput telemetry ingestion engine built in Go using Docker and Clean Architecture.
+Open-source source-to-source transpiler compiling Amharic and Ethiopian languages to standard Python 3.
 
-Designed for efficient, scalable data ingestion with a modular architecture and a lean runtime footprint.
+**Features**
+- Custom lexer, parser, and AST-based code generation with zero runtime overhead
+- Native Amharic keywords and Ethiopic Unicode identifiers
+- Extensible language adapters for Amharic, Afaan Oromoo, and Tigrinya
+- VS Code extension, PyPI package, CLI runner, and interactive web playground
 
-**Stack:** Go · Docker · PostgreSQL
+**Stack:** Python · AST · TypeScript · VS Code Extension API · PyPI · GitHub Actions
 
 ---
 
-### [btluBook-Store](https://github.com/Bereke1t2/btluBook-Store)
+### [Kelal Studio](https://github.com/Bereke1t2/KELAL-STUDIO)
 
-Cross-platform digital library platform built with Go (Gin) and Flutter.
+Bilingual (Amharic/English) AI-powered marketing and brand kit platform for Ethiopian businesses.
 
-Designed for scalable book distribution with AI-assisted content analysis while maintaining a clean separation between frontend and backend.
+**Features**
+- AI-generated marketing captions and localized social media hashtags
+- Digital brand kit management for logos, colors, fonts, and brand voice
+- AI-powered graphic generation and asynchronous video generation
+- Admin dashboard for usage analytics, content moderation, and user quota management
 
-**Stack:** Go · Gin · Flutter
+**Stack:** Go · Gin · GORM · Flutter · React · TypeScript · PostgreSQL · Docker
+
+---
+
+### [Vector Space Search](https://github.com/Bereke1t2/vector-space-search)
+
+Interactive document search engine implementing the Vector Space Model for information retrieval and relevance-based document ranking.
+
+**Features**
+- Multi-format document ingestion supporting PDF, Word, TXT, CSV, JSON, HTML, and XML
+- Text preprocessing with tokenization, stopword removal, stemming, and TF-IDF weighting
+- Ranked search results using cosine similarity with matching-term highlighting
+- Interactive document statistics dashboard with drag-and-drop uploads and light/dark themes
+
+**Stack:** JavaScript · Node.js · TF-IDF · Vector Space Model · Cosine Similarity
 
 ---
 
